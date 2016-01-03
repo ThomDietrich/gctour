@@ -2,7 +2,7 @@
 // @name         GC Tour
 // @namespace    madd.in
 // @version      2.3
-// @build        14271
+// @build        14272
 // @description  Cachetour planing made easy. Pick some Caches, sort the list and print it out. Free for all users of geocaching.com!
 // @run-at       document-end
 // @include      http*://www.geocaching.com/*
@@ -61,6 +61,9 @@
 /*
  * Changelog:
  *
+ *
+ * version 2.3.14272
+ *   (DirtyFix: https://github.com/ThomDietrich/gctour)
  *
  * version 2.3.14271
  *   - FIXED: "Add to tour" is now working from the map
